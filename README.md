@@ -21,7 +21,7 @@ I am an Android Developer and a third year undergrad at Maharaja Surajmal Instit
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=anshul3pathi&show_icons=true&theme=onedark" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-languages/?username=anshul3pathi&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-lans/?username=anshul3pathi&layout=compact" />
 
 
 <!--
