@@ -10,7 +10,7 @@ I am an Android Developer and a third year undergrad at Maharaja Surajmal Instit
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS_CODE-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS_CODE-informational?style=flat&logo=vs-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
